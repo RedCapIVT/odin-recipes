@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(247, 207, 146);
+    box-sizing: content-box;
+    max-width: auto;
+    height: 2000px;
+}
+img{
+    margin: 0 auto;
+}
+
+.titel, h1, h2{
+    text-align: center;
+    color: rgb(216, 17, 17);
+}
+h1{
+    font-size: 72px;
+}
+
+.tekst{
+    background-color: rgb(245, 219, 136);
+    border: 5px solid black;
+    margin: 15px;
+    padding: 15px;
+    text-align: center;
+
+}
+.lijsten{
+    background-color: aliceblue;
+    margin: 0 auto;
+    width: 800px;
+    display: flex;
+    border: 5px double black;
+    padding-left: 10px;
+}
+.lijst-een{
+    margin: 0 auto;
+}
+.lijst-twee{
+    margin: 0 auto;
+}
+.glaze{
+    padding: 5px;
+    border: 5px solid rgb(173, 62, 62);
+    margin: 5px;
+}
